@@ -6,6 +6,6 @@ Open `index.html` in a browser to view the page. No installation or build tools 
 
 ## Credits
 
-- Design concept and project direction: the student creator.
+- Design concept and project direction: MH.
 - Branding and photographs: charity: water.
 - HTML/CSS implementation and refinements: created with assistance from OpenAI Codex.
